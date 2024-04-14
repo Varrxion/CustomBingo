@@ -7,7 +7,7 @@
     <ProjectGuid>{B8641956-8B3B-41B9-9D0C-22E69259C2CE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>MonkZoneBingo</RootNamespace>
-    <AssemblyName>MonkZoneBingo</AssemblyName>
+    <AssemblyName>CustomBingo</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
