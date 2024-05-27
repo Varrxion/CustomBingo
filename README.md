@@ -1,11 +1,11 @@
 Bingo file format should be the following:
 
-"
 whateverfreespaceitem
 whateverfirstitem
 whateverseconditem
 whateverthirditem
-"
+
+
 and so on. In a standard .txt file.
 Each tile on a separate line of the file.
 
