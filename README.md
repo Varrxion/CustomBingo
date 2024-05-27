@@ -1,9 +1,9 @@
 Bingo file format should be the following:
 
-whateverfreespaceitem
-whateverfirstitem
-whateverseconditem
-whateverthirditem
+whateverfreespaceitem <br />
+whateverfirstitem <br />
+whateverseconditem <br />
+whateverthirditem <br />
 
 
 and so on. In a standard .txt file.
